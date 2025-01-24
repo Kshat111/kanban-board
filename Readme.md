@@ -2,6 +2,8 @@
 
 ![Architecture of the app](future-plan.png)
 
+**Note: The image above illustrates the proposed architecture of the application, including backend implementation, which is yet to be developed.**
+
 ## 📖 Overview
 The **Kanban Board** is a dynamic, responsive, and user-friendly task management tool designed to help individuals and teams visualize and optimize their workflows. With an intuitive interface and drag-and-drop functionality, it makes organizing tasks across different workflow stages (e.g., To-Do, In Progress, Done) seamless and efficient. This project leverages modern frontend technologies to deliver an interactive and visually appealing experience.
 

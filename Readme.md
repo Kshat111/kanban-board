@@ -44,4 +44,4 @@ The **Kanban Board** is a dynamic, responsive, and user-friendly task management
 - **Database Integration**:
   - Store user data, task details, and board configurations in a database (e.g., PostgreSQL, MongoDB, or Firebase).
 
-![Architecture of the app](C:/Users/AkshatSingh/Downloads/kanban-board/future-plan.png)
+![Architecture of the app](C:\Users\Akshat Singh\Downloads\kanban-board\future-plan.png)
